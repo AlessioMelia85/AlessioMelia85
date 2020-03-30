@@ -14,7 +14,7 @@
     padding: .3em 0;
     height: 1.6em;
     border-radius: 4px;
-    max-width: 250px;
+    width: 350px;
   }
   .heroes li:hover {
     color: #607D8B;
